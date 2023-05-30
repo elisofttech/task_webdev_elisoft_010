@@ -36,6 +36,7 @@ password : 12345678
 
 #
 6. Buatlah CRUD nested menu dengan output seperti gambar dibawah, jadi setiap nama menu bisa mempunyai child dan child juga bisa mempunyai child lagi (berulang). Icon **(+)** digunakan untuk menambah child di menu tersebut.
+
 ![soal_nested](./soal6.png)
 
 #

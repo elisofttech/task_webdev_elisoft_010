@@ -41,7 +41,7 @@ password : 12345678
 
 #
 7. Buatlah route baru dengan path /list-profile-github dan buatlah list data seperti tampilan seperti dibawah ini dengan memanfaatkan api github **https://api.github.com/search/users** menampilkan foto profile github, username, follower, following, repositores dan buatlah fitur searching ketika inputan di input. Gunakan debounce selama 2 detik, untuk loadingnya bisa menggunakan skeleton.
-![soal_github](./soal7.png)
+![soal_github](./soal7.jpg)
 
 #
 8. Buatlah file dengan nama caseOne.js dan buatlah sebuah pola yang terdiri dari karakter-karakter yang tercetak pada fungsi caseOne. Pola tersebut akan membentuk sebuah matriks persegi dengan ukuran count x count.

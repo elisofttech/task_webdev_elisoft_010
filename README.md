@@ -2,7 +2,7 @@
 
 Silahkan kerjakan beberapa soal dibawah dan buat project menggunakan menggunakan Laravel Vue Js / React Js SPA (Single Page Aplication) dan gunakan Vue Router / React Router DOM.
 > Jika selesai mengerjakan silahkan push ke github/gitlab Private dengan format test_webdev_elisoft_NamaAnda. Lalu undang email berikut
-reiandika10@gmail.com, hrd@elisofttechnology.com. Terima kasih
+reiandika10@gmail.com, hrd@elisofttechnology.com. antowrnto11@gmail.com Terima kasih
 
 #
 1. Buatlah fitur authentikasi  login, logout menggunakan laravel JWT/Passport/Sactum dan berikan juga middleware jikasudah login titak bisa masuk ke halaman login, dan juga sebaliknya .
